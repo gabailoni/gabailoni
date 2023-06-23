@@ -14,3 +14,5 @@ I'm passionate about the Front-end, the countless possibilities that can be expl
 
 # 📊 GitHub Stats
 !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=gabailoni&show_icons=true&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabailoni&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github.com/gabailoni/github-readme-stats)

@@ -13,4 +13,4 @@ I'm passionate about the Front-end, the countless possibilities that can be expl
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_wariaw.png) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-gabriela-bailoni-186b62254/) 
 
 # 📊 GitHub Stats
-[![gabailoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabailoni icons=true&theme=radical)]
+[![gabailoni's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabailoni)] !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=gabailoni&show_icons=true&theme=radical)

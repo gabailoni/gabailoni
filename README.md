@@ -1,5 +1,5 @@
 # 🤟 Hi there!
-An agile computer programmer and well-rounded IT professional with over three years of computer science education, possessing specialized knowledge of the software development lifecycle and a solid understanding of the technologies required to develop and deploy highly available and scalable applications, including their networks and infrastructure. Focus on APIs for software applications with Python.
+An agile computer programmer and well-rounded IT professional with over three years of computer science education, possessing specialized knowledge of the software development lifecycle and a solid understanding of the technologies required to develop and deploy highly available and scalable applications, including their networks and infrastructure. 
 
 # 🦾 Expertise
 Focus on APIs for software applications with Python.
